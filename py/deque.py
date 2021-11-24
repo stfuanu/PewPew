@@ -1,6 +1,6 @@
 # A deque is a double-ended queue. 
 # It can be used to add or remove elements from both ends.
-
+#
 # Deques support thread safe, memory efficient appends and pops from either side of the deque 
 # with approximately the same  performance in either direction.
 
